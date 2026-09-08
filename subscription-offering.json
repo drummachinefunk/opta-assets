@@ -22,7 +22,7 @@
         },
         {
             "id": "raffle",
-            "icon": "camera.badge.plus",
+            "icon": "tag.fill",
             "title": "Tag Us, Win a Code",
             "body": "Tag us in a post shot with Opta to enter our weekly raffle for Pro promo codes.",
             "action": {
