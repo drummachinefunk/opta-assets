@@ -2,6 +2,12 @@
     "headline": "Go Opta Pro",
     "subheadline": "Unlock every filter and preset, and support development.",
     "buttonTitle": "Subscribe",
+    "pricingTiers": {
+        "badge": "Limited time offer",
+        "names": ["Founders", "Early Bird", "Launch Week"],
+        "tierSize": 1000,
+        "subscriberCount": 0
+    },
     "promotions": [
         {
             "id": "filter-friday",
@@ -14,10 +20,10 @@
             }
         },
         {
-            "id": "early-bird",
+            "id": "tiered-pricing",
             "icon": "hourglass",
-            "title": "Early Bird Pricing",
-            "body": "The price of Opta Pro goes up over time, so the earliest subscribers pay the least. Yearly: €5 for the first 2 weeks, €10 for the next 2, €15 for the next 3, then €20. Monthly: €0.99, €1.99, €2.99, then €3.99. Lifetime: €15, €25, €35, then €45.",
+            "title": "Pricing Goes Up",
+            "body": "The price of Opta Pro goes up in steps as we hit subscriber milestones, so the earliest subscribers pay the least. Founders (first 1000): Yearly €5, Monthly €0.99, Lifetime €15. Early Bird (next 1000): Yearly €10, Monthly €1.99, Lifetime €25. Launch Week (next 1000): Yearly €15, Monthly €2.99, Lifetime €35. After that: Yearly €20, Monthly €3.99, Lifetime €45.",
             "action": null
         },
         {
